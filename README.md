@@ -23,3 +23,12 @@ cd vct-core-libs
 mkdir build && cd build
 cmake ..
 cmake --build . --config Release
+```
+🔗 Related Projects
+Valorant Skin Swapper 2026
+
+VCT Documentation
+
+Maintained by the VCT Team.
+
+---
