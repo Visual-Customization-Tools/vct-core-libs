@@ -25,9 +25,9 @@ cmake ..
 cmake --build . --config Release
 ```
 🔗 Related Projects
-Valorant Skin Swapper 2026
+[Valorant Skin Swapper 2026](https://github.com/Visual-Customization-Tools/valorant-skin-swapper-2026)
 
-VCT Documentation
+[VCT Documentation](https://github.com/Visual-Customization-Tools/vct-docs)
 
 Maintained by the VCT Team.
 
